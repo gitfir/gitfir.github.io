@@ -1,0 +1,35 @@
+body{background:url(images/background.jpg) no-repeat top right;
+	margin-left:auto;
+	margin-right:auto;
+}
+h1,h3{color:#5C4A9E;}
+h1{margin-left:2%;}
+p#movie_introducing{font-weight:bold;
+color:#5C4A9E;
+text-indent:6%;
+text-align:justify;
+}
+header{width:400px;
+	font:normal normal normal 14px/1.2em Verdana,Helvetica,Arial,sans-serif;
+	margin-left:2%;
+}
+video[name]{width:340px;}
+figure#allcontent{position:absolute;
+	top:0px;
+	right:-36px;
+width:350px;
+vertical-align:top;
+background-color:#4CAAAA;
+
+}
+/*section{width:900px;
+margin-left:auto;
+margin-right:auto;
+background-color:#F5EA09;
+background-image:url(images/background.jpg);
+
+}
+video[name]{width:340px;}*/
+li{display:inline;
+}
+nav{display:block;}
